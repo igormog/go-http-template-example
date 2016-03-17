@@ -6,6 +6,7 @@
 0) Install go compile, read this https://golang.org/doc/install
 
 Run command line
+
 1) git clone https://github.com/igormog/go-http-template-example.git
 
 2) cd go-http-template-example
